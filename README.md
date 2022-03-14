@@ -1,3 +1,3 @@
 # Barbearia Alura 
 
-<img scr="imagemcapa.png"
+<img scr="imagemcapa.png">
