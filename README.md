@@ -4,4 +4,10 @@
 
 ##
 
-<img scr="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="20" role="img" aria-label="STATUS: CONCLUÍDO">
+Projeto do site de uma barbearia, com três páginas HOME, PRODUTO e CONTATO; Site responsivo 
+
+
+
+
+https://user-images.githubusercontent.com/99972177/158242113-71e230c6-3e67-4a77-905c-12012de1a1fe.mp4
+
